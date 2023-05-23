@@ -6,9 +6,15 @@ h1 {
 text-align:center ;
 }
 body {
-    background-image: url(https://pbs.twimg.com/media/CicLNLHWsAAFVeI.jpg);
+    background-image: url(https://images.wallpapersden.com/image/download/paul-pogba-hd_bWltbmeUmZqaraWkpJRnZWltrWZoa2o.jpg);
+   background-size:100% ;
     text-align:center ;
 }
 h2{
     text-align:center ;
+}
+
+li {
+    color:red;
+    font-size: 40px;
 }
