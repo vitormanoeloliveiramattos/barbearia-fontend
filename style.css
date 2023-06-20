@@ -18,3 +18,8 @@ li {
     color:red;
     font-size: 40px;
 }
+a {
+    text-transform:uppercase ;
+    font-size: 35px;
+    color:red;
+}
